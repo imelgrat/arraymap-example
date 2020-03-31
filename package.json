@@ -1,0 +1,16 @@
+{
+  "name": "arraymap-example",
+  "version": "1.0.0",
+  "description": "Array.map() method is one of the most commonly used methods in JavaScript. Unlike forEach(), the map() method creates a new array with the results of a function call on each element in the array.",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": ["Array iteration", "javascript", "arrays", "iteration", "array map", "map"]
+}
